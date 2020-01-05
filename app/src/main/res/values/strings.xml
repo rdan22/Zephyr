@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Zephyr</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome To Zephyr!</string>
+    <string name="slide_1_desc">Death by Fruity Breath: A Novel Application for the Detection, Diagnosis, and Management of Diabetic Ketoacidosis</string>
+
+    <string name="slide_2_title">About Zephyr</string>
+    <string name="slide_2_desc">Zephyr is a mobile app with connectivity to our device, BADD, in order to receive data concerning breath acetone levels.</string>
+
+    <string name="slide_3_title">What is DKA?</string>
+    <string name="slide_3_desc">Diabetic Ketoacidosis is a serious complication of Type 1 Diabetes in which the body produces high levels of ketones. Learn more by clicking the link below!</string>
+    <string name="website">https://zephyrapp.herokuapp.com/zephyr/</string>
+
+    <string name="slide_4_title">Getting Started</string>
+    <string name="slide_4_desc">Click Start or swipe to create your account!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <!-- Strings related to login -->
+    <string name="prompt_name">Full Name</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_new_password">Create Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_register">Register</string>
+    <string name="create_account">Create Account</string>
+    <string name="Register">https://zephyrapp.herokuapp.com/zephyr/accounts/register/</string>
+    <string name="invalid_email">This email address is invalid</string>
+    <string name="invalid_password">Password is too short</string>
+    <string name="incorrect_password">Password is incorrect</string>
+    <string name="field_required">This field is required</string>
+</resources>
+
