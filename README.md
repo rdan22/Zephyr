@@ -10,4 +10,4 @@ In order to create a more user-friendly environment and a reliable classifier, I
 ## One Step Further
 The project involved the innovation of breath testing as well as a software system. I wanted to take it one step further by building a binary classifier to determine if a user tested positive for DKA. I programmed a Support Vector Machine (SVM) model and algorithm in Python. SVMs are Supervised Learning algorithms that implement pattern recognition features and training for original data mapped in a new space. It was used to delineate binary classification of the data collected in the experiment.
 
-This project uses $No License$: open source for educational purposes only. Look, but do not use for any thing including personal and commercial activities unless you obtain my explicit permission.
+This project uses **No License**: open source for educational purposes only. Look, but do not use for any thing including personal and commercial activities unless you obtain my explicit permission.
